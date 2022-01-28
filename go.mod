@@ -1,4 +1,4 @@
-module github.com/sunnivalien/is-105-mod1 
+module github.com/sunnivalien/is-105-mod1/myquote 
 //må få inn repo med myquote
 go 1.17
 
