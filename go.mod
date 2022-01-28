@@ -1,5 +1,9 @@
-module is-105-mod1
-
-go 1.16
+module github.com/sunnivalien/is-105-mod1 
+//må få inn repo med myquote
+go 1.17
 
 require rsc.io/quote v1.5.2
+
+require (
+	golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c
+	rsc.io/sampler v1.3.0
